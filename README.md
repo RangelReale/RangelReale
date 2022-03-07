@@ -2,7 +2,7 @@
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-rangelreale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangel-reale-6144312a/)](https://www.linkedin.com/in/rangel-reale-6144312a/)
 
-### Highlight repositories
+### Profile highlights
 * [HTMLButcher](https://github.com/RangelReale/htmlbutcher) (*under construction)
 
 <!--
