@@ -3,7 +3,10 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-rangelreale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangel-reale-6144312a/)](https://www.linkedin.com/in/rangel-reale-6144312a/)
 
 ### Profile highlights
-* [HTMLButcher](https://github.com/RangelReale/htmlbutcher) - open-sourced shareware to slice HTML image designs to HTML table layouts (before CSS was widespread) [C++, wxWidgets, desktop]
+* [HTMLButcher](https://github.com/RangelReale/htmlbutcher) - open-sourced shareware to slice HTML image designs to HTML table layouts (before CSS was widespread) [C++, wxWidgets, Desktop]
+* [MSGUI](https://github.com/RangelReale/msgui) - GUI for metashell, a C++ template debugging tool [C++, Qt5, Desktop]
+* [OSIN](https://github.com/RangelReale/osin) - one of the first Golang OAuth2 server frameworks. Donated to [RedHat/Openshift](https://github.com/openshift/osin) as it was a critical part of their code. [Golang, net/http]
+* [Gameandwatch](https://github.com/RangelReale/gameandwatch) - Game & Watch game simulators based on [Madrigal](http://www.madrigaldesign.it/sim/) [C++, SDL]
 
 <!--
 **RangelReale/RangelReale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
