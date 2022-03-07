@@ -23,6 +23,7 @@
 * [Gameandwatch](https://github.com/RangelReale/gameandwatch) - Game & Watch game simulators based on [Madrigal](http://www.madrigaldesign.it/sim/) [***SDL***]
 * [DTEL - Ducktape Event Loop](https://github.com/RangelReale/dtel) - An event loop implementation for the [https://duktape.org/](ducktape) embeddable Javascript engine
 * [PCacheProxy](https://github.com/RangelReale/pcacheproxy) - HTTP Caching Proxy library using Poco
+* [Mileversion](https://github.com/RangelReale/mileversion) - multi-platform library for executable file version reading
 
 #### Forked / contribution
 
