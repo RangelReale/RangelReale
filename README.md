@@ -1,4 +1,4 @@
-### Hi! I'm Rangel Reale 👋
+### Hi! I'm Rangel Reale, a software developer with 25 years of experience
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-rangelreale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rangel-reale-6144312a/)](https://www.linkedin.com/in/rangel-reale-6144312a/)
 
