@@ -9,7 +9,11 @@
 
 * [OSIN](https://github.com/RangelReale/osin) -  one of the first Golang OAuth2 server frameworks. Donated to [RedHat/Openshift](https://github.com/openshift/osin) as it was a critical part of their code. [***net/http***]
 * [sqldimel](https://github.com/RangelReale/sqldimel) - SQL DML query builder
-* [Panyl](https://github.com/RangelReale/panyl) - Panyl (Parse ANY Log) is a Golang library to parse logs that may have mixed formats, like log files for multiple services in the same file
+* [panyl](https://github.com/RangelReale/panyl) - Panyl (Parse ANY Log) is a Golang library to parse logs that may have mixed formats, like log files for multiple services in the same file
+    * [panyl-cli](https://github.com/RangelReale/panyl-cli) - Cli generator for panyl
+    * [panyl-cli-sample](https://github.com/RangelReale/panyl-cli-sample) - Complete sample for panyl-cli
+    * [panyl-plugins](https://github.com/RangelReale/panyl-plugins) - Plugins for panyl
+    * [panyl-ecapplog](https://github.com/RangelReale/panyl-ecapplog) - [ECAPPLog](https://github.com/RangelReale/ecapplog) plugin for panyl
 
 #### Forked / contribution
 
