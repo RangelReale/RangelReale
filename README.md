@@ -9,6 +9,7 @@
 
 * [OSIN](https://github.com/RangelReale/osin) -  one of the first Golang OAuth2 server frameworks. Donated to [RedHat/Openshift](https://github.com/openshift/osin) as it was a critical part of their code. [***net/http***]
 * [sqldimel](https://github.com/RangelReale/sqldimel) - SQL DML query builder
+* [Panyl](https://github.com/RangelReale/panyl) - Panyl (Parse ANY Log) is a Golang library to parse logs that may have mixed formats, like log files for multiple services in the same file
 
 #### Forked / contribution
 
@@ -19,6 +20,7 @@
 
 
 * [HTMLButcher](https://github.com/RangelReale/htmlbutcher) - open-sourced shareware to slice HTML image designs to HTML table layouts (before CSS was widespread) [***wxWidgets***, ***Desktop***]
+* [ECAPPLog](https://github.com/RangelReale/ecapplog) - ECAppLog is a networked logging GUI, intended to be used by programmers debugging code in a local computer
 * [MSGUI](https://github.com/RangelReale/msgui) - GUI for metashell, a C++ template debugging tool [***Qt5***, ***Desktop***]
 * [Gameandwatch](https://github.com/RangelReale/gameandwatch) - Game & Watch game simulators based on [Madrigal](http://www.madrigaldesign.it/sim/) [***SDL***]
 * [DTEL - Ducktape Event Loop](https://github.com/RangelReale/dtel) - An event loop implementation for the [https://duktape.org/](ducktape) embeddable Javascript engine
