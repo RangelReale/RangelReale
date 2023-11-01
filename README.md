@@ -7,13 +7,19 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
+* [debefix](https://github.com/rrgmc/debefix) - Go library to seed database data and/or create fixtures for DB tests, with data relationships.
+   * [debefix-sample-app](https://github.com/rrgmc/debefix-sample-app) - real-world sample of debefix, based on clean architecture, with transport, service, and storage separations. It uses debefix for seeding, test 
+     fixtures, and integration tests.
 * [OSIN](https://github.com/RangelReale/osin) -  one of the first Golang OAuth2 server frameworks. Donated to [RedHat/Openshift](https://github.com/openshift/osin) as it was a critical part of their code. [***net/http***]
-* [sqldimel](https://github.com/RangelReale/sqldimel) - SQL DML query builder
-* [panyl](https://github.com/RangelReale/panyl) - Panyl (Parse ANY Log) is a Golang library to parse logs that may have mixed formats, like log files for multiple services in the same file
-    * [panyl-cli](https://github.com/RangelReale/panyl-cli) - Cli generator for panyl
-    * [panyl-cli-sample](https://github.com/RangelReale/panyl-cli-sample) - Complete sample for panyl-cli
-    * [panyl-plugins](https://github.com/RangelReale/panyl-plugins) - Plugins for panyl
-    * [panyl-ecapplog](https://github.com/RangelReale/panyl-ecapplog) - [ECAPPLog](https://github.com/RangelReale/ecapplog) plugin for panyl
+* [InReq](https://github.com/rrgmc/inreq) - http request to struct.
+* [trcache](https://github.com/rrgmc/trcache) - strongly-typed generics-based cache library wrappers.
+* [sqldimel](https://github.com/RangelReale/sqldimel) - SQL DML query builder.
+* [panyl](https://github.com/RangelReale/panyl) - Panyl (Parse ANY Log) is a Golang library to parse logs that may have mixed formats, like log files for multiple services in the same file.
+    * [panyl-cli](https://github.com/RangelReale/panyl-cli) - Cli generator for panyl.
+    * [panyl-cli-sample](https://github.com/RangelReale/panyl-cli-sample) - Complete sample for panyl-cli.
+    * [panyl-plugins](https://github.com/RangelReale/panyl-plugins) - Plugins for panyl.
+    * [panyl-ecapplog](https://github.com/RangelReale/panyl-ecapplog) - [ECAPPLog](https://github.com/RangelReale/ecapplog) plugin for panyl.
+* [qdiimpl](https://github.com/rrgmc/qdiimpl) - Quick'n'Dirty Interface Implementation
 
 #### Forked / contribution
 
