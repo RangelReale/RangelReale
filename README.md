@@ -50,14 +50,20 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
   
 * [peopleface](https://github.com/rrgmc/peopleface) - Android app to remember people's names. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+* [ClassApp Triage](https://github.com/rrgmc/classapptriage) - Alternative implementation of ClassApp school-comminication app. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
+
+* [ptsite](https://github.com/rrgmc/ptsite) - A base for poker home-game league sites: Laravel API and React single-page app. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
 
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 
 * [Custom Travel App](https://github.com/rrgmc/custom-travel-app) - A template for building a small, offline Android app for one specific vacation.  ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 * [python-json-patch-ext](https://github.com/RangelReale/python-json-patch-ext) - extends the Python [jsonpatch](https://github.com/stefankoegl/python-json-patch) module to add 'check', 'mutate' and 'merge' operations
 * [helmion](https://github.com/RangelReale/helmion) - library to fetch and customize Kubernetes Helm templates
