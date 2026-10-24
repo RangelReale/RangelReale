@@ -44,7 +44,7 @@
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
 
 * [KaraokeMachine](https://github.com/rrgmc/karaokemachine) - A karaoke machine that behaves like a commercial home unit. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
-* [KM Video Tools)(https://github.com/rrgmc/km-video-tools) - Fetch karaoke video songs with yt-dlp, in the most suitable format.  ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+* [KM Video Tools](https://github.com/rrgmc/km-video-tools) - Fetch karaoke video songs with yt-dlp, in the most suitable format.  ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
 
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
