@@ -6,7 +6,6 @@
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-
 * [debefix](https://github.com/rrgmc/debefix) - Go library to seed database data and/or create fixtures for DB tests, with data relationships.
    * [debefix-sample-app](https://github.com/rrgmc/debefix-sample-app) - real-world sample of debefix, based on clean architecture, with transport, service, and storage separations. It uses debefix for seeding, test 
      fixtures, and integration tests.
@@ -20,6 +19,7 @@
     * [panyl-plugins](https://github.com/RangelReale/panyl-plugins) - Plugins for panyl.
     * [panyl-ecapplog](https://github.com/RangelReale/panyl-ecapplog) - [ECAPPLog](https://github.com/RangelReale/ecapplog) plugin for panyl.
 * [qdiimpl](https://github.com/rrgmc/qdiimpl) - Quick'n'Dirty Interface Implementation
+* [CK Karaoke](https://github.com/rrgmc/ck-karaoke) - Remote control for karaoke units. It works with the Videoke VSK family and with units sold under the CooKara and RafKara names. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
 
 #### Forked / contribution
 
@@ -30,20 +30,31 @@
 
 * [HTMLButcher](https://github.com/RangelReale/htmlbutcher) - open-sourced shareware to slice HTML image designs to HTML table layouts (before CSS was widespread) [***wxWidgets***, ***Desktop***]
 * [ECAPPLog](https://github.com/RangelReale/ecapplog) - ECAppLog is a networked logging GUI, intended to be used by programmers debugging code in a local computer
+* [favdir](https://github.com/rrgmc/favdir) - Desktop app for local directories favorites and quick actions. [Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
 * [MSGUI](https://github.com/RangelReale/msgui) - GUI for metashell, a C++ template debugging tool [***Qt5***, ***Desktop***]
 * [Gameandwatch](https://github.com/RangelReale/gameandwatch) - Game & Watch game simulators based on [Madrigal](http://www.madrigaldesign.it/sim/) [***SDL***]
 * [DTEL - Ducktape Event Loop](https://github.com/RangelReale/dtel) - An event loop implementation for the [https://duktape.org/](ducktape) embeddable Javascript engine
 * [PCacheProxy](https://github.com/RangelReale/pcacheproxy) - HTTP Caching Proxy library using Poco
 * [Mileversion](https://github.com/RangelReale/mileversion) - multi-platform library for executable file version reading
 
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
-
-* [KaraokeMachine](https://github.com/rrgmc/karaokemachine) - A karaoke machine that behaves like a commercial home unit. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)]
-
 #### Forked / contribution
 
 * [POCO](https://github.com/RangelReale/poco) - [POCO](https://github.com/pocoproject/poco) is powerful cross-platform C++ libraries for building network-and internet-based applications. Former core team member
 
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
+
+* [KaraokeMachine](https://github.com/rrgmc/karaokemachine) - A karaoke machine that behaves like a commercial home unit. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+* [KM Video Tools)(https://github.com/rrgmc/km-video-tools) - Fetch karaoke video songs with yt-dlp, in the most suitable format.  ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+
+
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+  
+* [peopleface](https://github.com/rrgmc/peopleface) - Android app to remember people's names. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+
+* [Custom Travel App](https://github.com/rrgmc/custom-travel-app) - A template for building a small, offline Android app for one specific vacation.  ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
