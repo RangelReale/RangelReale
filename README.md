@@ -28,7 +28,6 @@
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
 * [HTMLButcher](https://github.com/RangelReale/htmlbutcher) - open-sourced shareware to slice HTML image designs to HTML table layouts (before CSS was widespread) [***wxWidgets***, ***Desktop***]
 * [ECAPPLog](https://github.com/RangelReale/ecapplog) - ECAppLog is a networked logging GUI, intended to be used by programmers debugging code in a local computer
 * [MSGUI](https://github.com/RangelReale/msgui) - GUI for metashell, a C++ template debugging tool [***Qt5***, ***Desktop***]
@@ -36,6 +35,10 @@
 * [DTEL - Ducktape Event Loop](https://github.com/RangelReale/dtel) - An event loop implementation for the [https://duktape.org/](ducktape) embeddable Javascript engine
 * [PCacheProxy](https://github.com/RangelReale/pcacheproxy) - HTTP Caching Proxy library using Poco
 * [Mileversion](https://github.com/RangelReale/mileversion) - multi-platform library for executable file version reading
+
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
+
+* [KaraokeMachine](https://github.com/rrgmc/karaokemachine) - A karaoke machine that behaves like a commercial home unit. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)]
 
 #### Forked / contribution
 
