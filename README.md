@@ -19,7 +19,7 @@
     * [panyl-plugins](https://github.com/RangelReale/panyl-plugins) - Plugins for panyl.
     * [panyl-ecapplog](https://github.com/RangelReale/panyl-ecapplog) - [ECAPPLog](https://github.com/RangelReale/ecapplog) plugin for panyl.
 * [qdiimpl](https://github.com/rrgmc/qdiimpl) - Quick'n'Dirty Interface Implementation
-* [CK Karaoke](https://github.com/rrgmc/ck-karaoke) - Remote control for karaoke units. It works with the Videoke VSK family and with units sold under the CooKara and RafKara names. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+
 
 #### Forked / contribution
 
@@ -51,7 +51,8 @@
   
 * [peopleface](https://github.com/rrgmc/peopleface) - Android app to remember people's names. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
 * [ClassApp Triage](https://github.com/rrgmc/classapptriage) - Alternative implementation of ClassApp school-comminication app. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
-
+* [CK Karaoke](https://github.com/rrgmc/ck-karaoke) - Remote control for karaoke units. It works with the Videoke VSK family and with units sold under the CooKara and RafKara names. ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+* 
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
 
